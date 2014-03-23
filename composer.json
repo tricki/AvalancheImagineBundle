@@ -1,14 +1,14 @@
 {
-    "name": "avalanche123/imagine-bundle",
+    "name": "tricki/imagine-bundle",
     "description": "Image manipulation using Imagine and Twig Filters.",
     "keywords": ["image manipulation", "imagine"],
-    "homepage": "https://github.com/avalanche123/AvalancheImagineBundle",
+    "homepage": "https://github.com/tricki/AvalancheImagineBundle",
     "type": "symfony-bundle",
     "license": "MIT",
     "repositories":[
         {
             "type":"git",
-            "url":"git://github.com/avalanche123/Imagine.git"
+            "url":"git://github.com/tricki/Imagine.git"
         }
     ],
 
